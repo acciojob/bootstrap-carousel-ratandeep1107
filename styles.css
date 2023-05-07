@@ -1,2 +1,8 @@
-
+.carousel-inner{
+    height: 500px;
+}
+.carousel-inner div img{
+    object-fit: cover;
+    height: 500px;
+}
 /* Your CSS Code here. */
